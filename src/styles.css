@@ -1,0 +1,34 @@
+body {
+  background-color:#d7f2f3;
+}
+
+
+
+@media (max-width: 768px) {
+    /* Adjust font sizes */
+    h2 {
+      font-size: 1rem;
+    }
+  
+    label {
+      font-size: 0.9rem;
+    }
+  
+    button {
+      font-size: 1rem;
+    }
+  
+    /* Adjust container size */
+    div {
+      width: 90%;
+    }
+  }
+  
+  /* Colour scheme:
+Primary: #D7F2F3 (shade of light cyan)
+Secondary colour - Box outlines/info/general outlines: #3873FF
+Success: #72E46 (green)
+Warning: #FFBC14 (orange)
+Wrong answers: #FF5E79
+
+  */ 
